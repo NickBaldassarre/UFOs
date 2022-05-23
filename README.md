@@ -20,4 +20,4 @@ Here, the table has been filtered to only include sightings that occured in Cali
 
 One major drawback of the site is that the input boxes are case sensitive. This is especially apparent if accessing the site from a device with auto capitalization enabled.
 
-I recommend adding the ability to filter for keywords in the comments, such as "HOAX" and "NUFORC". I also recommend obtaining a much larger dataset in order to really utilize the analytical capabilities fo the site.
+I recommend adding the ability to filter for keywords in the comments, such as "HOAX" and "NUFORC". I also recommend transforming the data in the duration column so that the ability to search based on duration can be effectively added. Finally, I recommend obtaining a much larger dataset in order to really utilize the analytical capabilities fo the site.
